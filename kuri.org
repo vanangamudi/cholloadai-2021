@@ -1,0 +1,9 @@
+* சொல்லோடை-2021 (Cholloadai-2021)
+** Model
+   [[https://github.com/vanangamudi/tamil-lm2/tree/cholloadai][Tamil language model - skipgram]]
+   cholloadai branch can handle larger dataset using pytorch dataloader utilities and loads data directly from disk using mmap instead of loading the whole dataset into main memory (RAM)
+   
+** Scraping pipleline
+** Text Preprocessing
+** Cholloadai-2021.txt
+   
